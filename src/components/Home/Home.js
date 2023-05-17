@@ -17,7 +17,7 @@ function Home() {
           <img
             className="com-img"
             src={com}
-            widt="100"
+            // widt="100"
             alt="a group of people"
           />
         </div>
@@ -43,7 +43,7 @@ function Home() {
           <img
             className="group-img"
             src={group}
-            widt="100"
+            // widt="100"
             alt="a group of friends"
           />
         </div>
