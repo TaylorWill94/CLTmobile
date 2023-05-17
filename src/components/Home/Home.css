@@ -39,8 +39,17 @@
     border-radius: 125px;
   }
 
+  .group-sec {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: rgb(1, 70, 56);
+  }
+
   .group-img {
     max-width: 100%;
+    border-radius: 125px;
   }
 
   .intro-sec {
@@ -101,6 +110,14 @@
     /* max-width: 392px; */
   }
 
+  .group-sec {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: rgb(1, 70, 56);
+  }
+
   .group-img {
     max-width: 100%;
   }
@@ -132,11 +149,20 @@
 
   .com-img {
     max-width: 100%;
-    /* max-width: 392px; */
+    border-radius: 125px;
+  }
+
+  .group-sec {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: rgb(1, 70, 56);
   }
 
   .group-img {
     max-width: 100%;
+    border-radius: 125px;
   }
 }
 
@@ -166,7 +192,46 @@
 
   .com-img {
     max-width: 100%;
-    /* max-width: 392px; */
+    border-radius: 125px;
+  }
+
+  .group-sec {
+    margin: 1.25rem;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+    background: rgb(1, 70, 56);
+  }
+  .group-img {
+    max-width: 100%;
+    border-radius: 125px;
+  }
+
+  .clt-sec {
+    margin: 1.25rem;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: rgb(1, 70, 56);
+  }
+
+  .clt-bio {
+    font-size: 1.2rem;
+    text-align: left;
+    color: white;
+  }
+
+  .intro-sec {
+    display: flex;
+    flex-direction: row;
+    margin: 1.25rem;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }
 
@@ -196,7 +261,49 @@
 
   .com-img {
     max-width: 100%;
-    /* max-width: 392px; */
+    border-radius: 125px;
+  }
+
+  .group-sec {
+    margin: 1.25rem;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+    background: rgb(1, 70, 56);
+  }
+
+  .group-img {
+    max-width: 100%;
+    border-radius: 125px;
+  }
+
+  .clt-sec {
+    margin: 1.25rem;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: rgb(1, 70, 56);
+  }
+
+  .clt-bio {
+    font-size: 1rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: left;
+    color: white;
+  }
+
+  .intro-sec {
+    display: flex;
+    flex-direction: row;
+    margin: 1.25rem;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }
 
@@ -243,21 +350,33 @@
 
   .com-img {
     max-width: 100%;
-    /* max-width: 392px; */
+    border-radius: 125px;
   }
 
   .group-img {
     max-width: 100%;
+    border-radius: 125px;
   }
 
   .intro-sec {
-    display: flex;
+    /* display: flex;
     flex-direction: row;
     margin: 1.25rem;
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
+    padding-right: 20px; */
+    display: flex;
+    flex-direction: row;
+  }
+
+  .clt-sec {
+    margin: 1.25rem;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
     padding-right: 20px;
+    background: rgb(1, 70, 56);
   }
 
   .clt-bio {
@@ -266,5 +385,15 @@
     font-weight: 600;
     text-align: left;
     color: white;
+  }
+
+  .group-sec {
+    margin: 1.25rem;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+    background: rgb(1, 70, 56);
   }
 }

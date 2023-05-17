@@ -3,7 +3,7 @@
     margin: 1.25rem;
     padding-top: 0.625rem;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     /* added code */
     /* align-items: center;
     width: 100%; */
@@ -69,7 +69,8 @@
     margin: 1.25rem;
     padding-top: 0.625rem;
     display: flex;
-    flex-direction: column;
+    justify-content: space-between;
+    flex-direction: row;
   }
 
   .site-title {
@@ -98,7 +99,7 @@
     margin: 1.25rem;
     padding-top: 0.625rem;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
   }
 
   .site-title {

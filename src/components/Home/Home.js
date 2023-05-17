@@ -22,21 +22,24 @@ function Home() {
           />
         </div>
       </div>
+
       <div className="intro-sec">
-        <h1 className="clt-bio">
-          <span style={{ color: "orange" }}>
-            The CLT will support the revitalization of a marginalized community
-            of color through the development of affordable housing and
-            programming of land.
-          </span>{" "}
-          <br />
-          <br />
-          The CLT will own, develop and manage land in order to create a just,
-          equitable and resilient Edgemere. The CLT will use grassroots methods
-          to plan and develop housing, open-spaces, and amenities to cultivate
-          economic, ecological, and cultural vibrancy.
-        </h1>
-        <div className="img-sec">
+        <div className="clt-sec">
+          <h1 className="clt-bio">
+            <span style={{ color: "orange" }}>
+              The CLT will support the revitalization of a marginalized
+              community of color through the development of affordable housing
+              and programming of land.
+            </span>{" "}
+            <br />
+            <br />
+            The CLT will own, develop and manage land in order to create a just,
+            equitable and resilient Edgemere. The CLT will use grassroots
+            methods to plan and develop housing, open-spaces, and amenities to
+            cultivate economic, ecological, and cultural vibrancy.
+          </h1>
+        </div>
+        <div className="group-sec">
           <img
             className="group-img"
             src={group}
