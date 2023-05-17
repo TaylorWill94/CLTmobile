@@ -27,3 +27,33 @@
     /* max-width: 392px; */
   }
 }
+
+@media screen and (max-width: 768px) {
+  .home-sec {
+    margin: 1.25rem;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: rgb(1, 70, 56);
+  }
+
+  .message {
+    font-size: 1.25rem;
+    color: white;
+  }
+
+  .img-sec {
+    margin: 1.25rem;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: rgb(1, 70, 56);
+  }
+
+  .com-img {
+    max-width: 100%;
+    /* max-width: 392px; */
+  }
+}
