@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "./Mission.css";
 
 function Mission() {
@@ -15,7 +16,9 @@ function Mission() {
           to plan and develop housing, open-spaces, and amenities to cultivate
           economic, ecological, and cultural vibrancy.
         </h1>
-        <button className="read-more">read more</button>
+        <Link to="/about">
+          <button className="read-more">read more</button>
+        </Link>
       </div>
     </div>
   );

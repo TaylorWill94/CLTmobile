@@ -19,7 +19,9 @@ function Nav() {
         <Link to="/about">
           <p className="nav-item">About</p>
         </Link>
-        <p className="nav-item">Contact</p>
+        <Link to="/contact">
+          <p className="nav-item">Contact</p>
+        </Link>
       </div>
     </nav>
   );
