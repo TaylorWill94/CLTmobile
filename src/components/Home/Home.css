@@ -31,7 +31,7 @@
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
-    background: rgb(1, 70, 56);
+    /* background: rgb(1, 70, 56); */
   }
 
   .com-img {
@@ -100,7 +100,7 @@
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
-    background: rgb(1, 70, 56);
+    /* background: rgb(1, 70, 56); */
   }
 
   .com-img {
@@ -124,7 +124,7 @@
 
 @media screen and (min-width: 576px) {
   .home-sec {
-    margin: 1.25rem;
+    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
@@ -138,12 +138,12 @@
   }
 
   .img-sec {
-    margin: 1.25rem;
+    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
-    background: rgb(1, 70, 56);
+    /* background: rgb(1, 70, 56); */
   }
 
   .com-img {
@@ -165,7 +165,7 @@
   }
 
   .intro-sec {
-    margin: 1.25rem;
+    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
@@ -178,7 +178,7 @@
 
 @media screen and (min-width: 768px) {
   .home-sec {
-    margin: 1.25rem;
+    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
@@ -192,12 +192,12 @@
   }
 
   .img-sec {
-    margin: 1.25rem;
+    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
-    background: rgb(1, 70, 56);
+    /* background: rgb(1, 70, 56); */
   }
 
   .com-img {
@@ -206,7 +206,7 @@
   }
 
   .group-sec {
-    margin: 1.25rem;
+    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
@@ -220,7 +220,7 @@
   }
 
   .clt-sec {
-    margin: 1.25rem;
+    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
@@ -237,7 +237,7 @@
   .intro-sec {
     display: flex;
     flex-direction: row;
-    margin: 1.25rem;
+    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
@@ -247,7 +247,7 @@
 
 @media screen and (min-width: 992px) {
   .home-sec {
-    margin: 1.25rem;
+    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
@@ -262,12 +262,12 @@
   }
 
   .img-sec {
-    margin: 1.25rem;
+    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
-    background: rgb(1, 70, 56);
+    /* background: rgb(1, 70, 56); */
   }
 
   .com-img {
@@ -276,7 +276,7 @@
   }
 
   .group-sec {
-    margin: 1.25rem;
+    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
@@ -290,11 +290,11 @@
   }
 
   .clt-sec {
-    margin: 1.25rem;
+    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
-    padding-left: 20px;
-    padding-right: 20px;
+    /* padding-left: 20px;
+    padding-right: 20px; */
     background: rgb(1, 70, 56);
   }
 
@@ -317,7 +317,7 @@
   }
 
   .home-sec {
-    margin: 1.25rem;
+    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
@@ -342,13 +342,13 @@
   }
 
   .img-sec {
-    margin: 1.25rem;
+    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
     width: 100%;
-    background: rgb(1, 70, 56);
+    /* background: rgb(1, 70, 56); */
   }
 
   .com-img {
@@ -374,7 +374,7 @@
   }
 
   .clt-sec {
-    margin: 1.25rem;
+    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
@@ -391,7 +391,7 @@
   }
 
   .group-sec {
-    margin: 1.25rem;
+    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;

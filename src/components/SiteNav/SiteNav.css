@@ -141,15 +141,15 @@ hr {
     flex-direction: column;
     background: rgb(59, 115, 235);
     color: white;
-    padding-bottom: 50px;
+    padding-bottom: 80px;
   }
 
   .site-nav-title {
     color: rgb(1, 70, 56);
     font-weight: 900;
-    font-size: 16px;
+    font-size: 23px;
     margin: 20px;
-    margin-top: 50px;
+    margin-top: 80px;
   }
 
   .sec-1,
