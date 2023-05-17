@@ -79,10 +79,6 @@ hr {
     font-weight: 900;
     font-size: 16px;
   }
-
-  hr {
-    width: 85%;
-  }
 }
 
 @media screen and (min-width: 768px) {
@@ -110,7 +106,7 @@ hr {
   }
 
   hr {
-    width: 85%;
+    display: none;
   }
 }
 
@@ -136,10 +132,6 @@ hr {
   .sec-3 {
     font-weight: 900;
     font-size: 16px;
-  }
-
-  hr {
-    width: 85%;
   }
 }
 
@@ -168,6 +160,6 @@ hr {
   }
 
   hr {
-    width: 85%;
+    display: none;
   }
 }
