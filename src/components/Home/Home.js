@@ -1,17 +1,26 @@
 import "./Home.css";
 import com from "./community.jpeg";
+import group from "./group.jpeg";
 
 function Home() {
   return (
-    <div className="home">
-      <div className="home-sec">
-        <h1 className="message">
-          The ReAL Edgemere Community Land Trust (CLT) is a community-led and
-          community-focused non-profit.{" "}
-        </h1>
-      </div>
-      <div className="img-sec">
-        <img className="com-img" src={com} widt="100" alt="a group of people" />
+    <>
+      <div className="home">
+        <div className="home-sec">
+          <h1 className="message">
+            The <span style={{ color: "orange" }}>ReAL</span> Edgemere Community
+            Land Trust (CLT) is a community-led and community-focused
+            non-profit.{" "}
+          </h1>
+        </div>
+        <div className="img-sec">
+          <img
+            className="com-img"
+            src={com}
+            widt="100"
+            alt="a group of people"
+          />
+        </div>
       </div>
       <div className="intro-sec">
         <h1 className="clt-bio">
@@ -27,8 +36,16 @@ function Home() {
           to plan and develop housing, open-spaces, and amenities to cultivate
           economic, ecological, and cultural vibrancy.
         </h1>
+        <div className="img-sec">
+          <img
+            className="group-img"
+            src={group}
+            widt="100"
+            alt="a group of friends"
+          />
+        </div>
       </div>
-    </div>
+    </>
   );
 }
 

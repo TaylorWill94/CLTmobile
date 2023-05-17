@@ -14,6 +14,16 @@
     font-weight: 300;
     text-align: left;
     color: white;
+    animation: fadeIn 10s;
+  }
+
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
   }
 
   .img-sec {
@@ -27,6 +37,10 @@
   .com-img {
     max-width: 100%;
     border-radius: 125px;
+  }
+
+  .group-img {
+    max-width: 100%;
   }
 
   .intro-sec {
@@ -86,6 +100,10 @@
     border-radius: 125px;
     /* max-width: 392px; */
   }
+
+  .group-img {
+    max-width: 100%;
+  }
 }
 
 @media screen and (min-width: 576px) {
@@ -115,6 +133,10 @@
   .com-img {
     max-width: 100%;
     /* max-width: 392px; */
+  }
+
+  .group-img {
+    max-width: 100%;
   }
 }
 
@@ -194,8 +216,19 @@
   }
 
   .message {
-    font-size: 1.25rem;
+    font-size: 2.25rem;
+    font-weight: 900;
     color: white;
+    animation: fadeIn 10s;
+  }
+
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
   }
 
   .img-sec {
@@ -204,11 +237,34 @@
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
+    width: 100%;
     background: rgb(1, 70, 56);
   }
 
   .com-img {
     max-width: 100%;
     /* max-width: 392px; */
+  }
+
+  .group-img {
+    max-width: 100%;
+  }
+
+  .intro-sec {
+    display: flex;
+    flex-direction: row;
+    margin: 1.25rem;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .clt-bio {
+    font-size: 1rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: left;
+    color: white;
   }
 }
