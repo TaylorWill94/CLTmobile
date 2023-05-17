@@ -100,13 +100,11 @@
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
-    /* background: rgb(1, 70, 56); */
   }
 
   .com-img {
     max-width: 100%;
     border-radius: 125px;
-    /* max-width: 392px; */
   }
 
   .group-sec {
@@ -124,7 +122,6 @@
 
 @media screen and (min-width: 576px) {
   .home-sec {
-    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
@@ -138,12 +135,10 @@
   }
 
   .img-sec {
-    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
-    /* background: rgb(1, 70, 56); */
   }
 
   .com-img {
@@ -165,13 +160,11 @@
   }
 
   .intro-sec {
-    /* margin: 1.25rem; */
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 10px;
-    margin-bottom: 10px;
     background: rgb(1, 70, 56);
   }
 }
