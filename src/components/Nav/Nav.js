@@ -16,7 +16,9 @@ function Nav() {
             <p className="nav-item">Mission</p>
           </Link>
         </Link>
-        <p className="nav-item">About</p>
+        <Link to="/about">
+          <p className="nav-item">About</p>
+        </Link>
         <p className="nav-item">Contact</p>
       </div>
     </nav>
