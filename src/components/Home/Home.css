@@ -9,7 +9,10 @@
   }
 
   .message {
+    font-size: 1rem;
     font-size: 1.25rem;
+    font-weight: 300;
+    text-align: left;
     color: white;
   }
 
@@ -24,6 +27,24 @@
   .com-img {
     max-width: 100%;
     border-radius: 125px;
+  }
+
+  .intro-sec {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: rgb(1, 70, 56);
+  }
+
+  .clt-bio {
+    font-size: 1rem;
+    font-size: 1.25rem;
+    font-weight: 300;
+    text-align: left;
+    color: white;
   }
 }
 
