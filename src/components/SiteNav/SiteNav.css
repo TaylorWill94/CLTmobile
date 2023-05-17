@@ -1,0 +1,173 @@
+@media screen and (min-width: 300px) {
+  .site-nav {
+    display: flex;
+    flex-direction: column;
+    background: rgb(59, 115, 235);
+    color: white;
+    padding-bottom: 50px;
+  }
+
+  .site-nav-title {
+    color: rgb(1, 70, 56);
+    font-weight: 900;
+    font-size: 16px;
+    margin: 20px;
+    margin-top: 50px;
+  }
+}
+
+.sec-1,
+.sec-2,
+.sec-3 {
+  font-weight: 900;
+  font-size: 16px;
+}
+
+hr {
+  width: 85%;
+}
+
+@media screen and (min-width: 400px) {
+  .site-nav {
+    display: flex;
+    flex-direction: column;
+    background: rgb(59, 115, 235);
+    color: white;
+    padding-bottom: 50px;
+  }
+
+  .site-nav-title {
+    color: rgb(1, 70, 56);
+    font-weight: 900;
+    font-size: 16px;
+    margin: 20px;
+    margin-top: 50px;
+  }
+
+  .sec-1,
+  .sec-2,
+  .sec-3 {
+    font-weight: 900;
+    font-size: 16px;
+  }
+
+  hr {
+    width: 85%;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .site-nav {
+    display: flex;
+    flex-direction: column;
+    background: rgb(59, 115, 235);
+    color: white;
+    padding-bottom: 50px;
+  }
+
+  .site-nav-title {
+    color: rgb(1, 70, 56);
+    font-weight: 900;
+    font-size: 16px;
+    margin: 20px;
+    margin-top: 50px;
+  }
+
+  .sec-1,
+  .sec-2,
+  .sec-3 {
+    font-weight: 900;
+    font-size: 16px;
+  }
+
+  hr {
+    width: 85%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .site-nav {
+    display: flex;
+    flex-direction: column;
+    background: rgb(59, 115, 235);
+    color: white;
+    padding-bottom: 50px;
+  }
+
+  .site-nav-title {
+    color: rgb(1, 70, 56);
+    font-weight: 900;
+    font-size: 16px;
+    margin: 20px;
+    margin-top: 50px;
+  }
+
+  .sec-1,
+  .sec-2,
+  .sec-3 {
+    font-weight: 900;
+    font-size: 16px;
+  }
+
+  hr {
+    width: 85%;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .site-nav {
+    display: flex;
+    flex-direction: column;
+    background: rgb(59, 115, 235);
+    color: white;
+    padding-bottom: 50px;
+  }
+
+  .site-nav-title {
+    color: rgb(1, 70, 56);
+    font-weight: 900;
+    font-size: 16px;
+    margin: 20px;
+    margin-top: 50px;
+  }
+
+  .sec-1,
+  .sec-2,
+  .sec-3 {
+    font-weight: 900;
+    font-size: 16px;
+  }
+
+  hr {
+    width: 85%;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .site-nav {
+    display: flex;
+    flex-direction: column;
+    background: rgb(59, 115, 235);
+    color: white;
+    padding-bottom: 50px;
+  }
+
+  .site-nav-title {
+    color: rgb(1, 70, 56);
+    font-weight: 900;
+    font-size: 16px;
+    margin: 20px;
+    margin-top: 50px;
+  }
+
+  .sec-1,
+  .sec-2,
+  .sec-3 {
+    font-weight: 900;
+    font-size: 16px;
+  }
+
+  hr {
+    width: 85%;
+  }
+}
