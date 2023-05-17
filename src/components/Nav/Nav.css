@@ -1,4 +1,33 @@
-@media screen and (max-width: 576px) {
+@media screen and (min-width: 576px) {
+  .nav {
+    margin: 1.25rem;
+    padding-top: 0.625rem;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .site-title {
+    color: rgb(1, 70, 56);
+    font-weight: 900;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .nav-item {
+    display: inline-block;
+    padding: 0.9375rem;
+    font-weight: 600;
+    color: black;
+  }
+
+  .nav-item:hover {
+    transform: translateY(-0.625rem);
+  }
+}
+
+@media screen and (min-width: 768px) {
   .nav {
     margin: 1.25rem;
     padding-top: 0.625rem;
@@ -25,10 +54,41 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 992px) {
   .nav {
     margin: 1.25rem;
     padding-top: 0.625rem;
+  }
+
+  .site-title {
+    color: rgb(1, 70, 56);
+    font-weight: 900;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .nav-item {
+    display: inline-block;
+    padding: 0.9375rem;
+    font-weight: 600;
+    color: black;
+  }
+
+  .nav-item:hover {
+    transform: translateY(-0.625rem);
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .nav {
+    margin: 2.55rem;
+    padding-top: 0.625rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
   }
 
   .site-title {
