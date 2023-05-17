@@ -12,7 +12,9 @@ function Nav() {
 
       <div className="nav-sec-items">
         <Link to="/mission">
-          <p className="nav-item">Mission</p>
+          <Link to="mission">
+            <p className="nav-item">Mission</p>
+          </Link>
         </Link>
         <p className="nav-item">About</p>
         <p className="nav-item">Contact</p>

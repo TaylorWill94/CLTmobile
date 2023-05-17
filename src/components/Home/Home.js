@@ -15,7 +15,7 @@ function Home() {
       </div>
       <div className="intro-sec">
         <h1 className="clt-bio">
-          <span style={{ color: "FFFFFF" }}>
+          <span style={{ color: "orange" }}>
             The CLT will support the revitalization of a marginalized community
             of color through the development of affordable housing and
             programming of land.
