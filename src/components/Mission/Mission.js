@@ -11,6 +11,8 @@ function Mission() {
             of color through the development of affordable housing and
             programming of land.
           </span>{" "}
+          <br />
+          <br />
           The CLT will own, develop and manage land in order to create a just,
           equitable and resilient Edgemere. The CLT will use grassroots methods
           to plan and develop housing, open-spaces, and amenities to cultivate
