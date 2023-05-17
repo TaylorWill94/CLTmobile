@@ -9,17 +9,23 @@ function SiteNav() {
       </h1>
 
       <div className="sec-1">
-        <ul>About</ul>
+        <Link to="/about">
+          <ul>About</ul>
+        </Link>
         <hr />
       </div>
 
       <div className="sec-2">
-        <ul>Contact</ul>
+        <Link to="/contact">
+          <ul>Contact</ul>
+        </Link>
         <hr />
       </div>
 
       <div className="sec-3">
-        <ul>Mission</ul>
+        <Link to="/mission">
+          <ul>Mission</ul>
+        </Link>
         <hr />
       </div>
     </div>
