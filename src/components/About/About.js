@@ -1,4 +1,5 @@
 import "./About.css";
+import plans from "./plans.png";
 import { Link } from "react-router-dom";
 
 function About() {
@@ -7,17 +8,20 @@ function About() {
       <div className="about-sec">
         <h1 className="about-bio">
           <span style={{ color: "orange" }}>
-            The CLT will support the revitalization of a marginalized community
-            of color through the development of affordable housing and
-            programming of land.
+            We are a new non-profit community organization, dedicated to
+            community control of land in Edgemere:
           </span>{" "}
           <br />
           <br />
-          The CLT will own, develop and manage land in order to create a just,
-          equitable and resilient Edgemere. The CLT will use grassroots methods
-          to plan and develop housing, open-spaces, and amenities to cultivate
-          economic, ecological, and cultural vibrancy.
+          Formed by local residents to bid on 116 HPD owned lots (through a
+          competitive process)– so our community can have a REAL say in how the
+          lots are developed! We were selected by HPD as the winner in September
+          2022! We’re doing things a little up-side-down! Most CLTs get
+          organized first, and THEN get land… so we really gotta get organized
+          to do this right! We need YOUR help to make community control in
+          Edgemere a success!
         </h1>
+        <img className="plans-img" src={plans} alt="shows community plans" />
         <Link to="/contact">
           <button className="read-more">contact</button>
         </Link>
