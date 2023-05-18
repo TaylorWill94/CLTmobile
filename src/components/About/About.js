@@ -22,9 +22,6 @@ function About() {
           Edgemere a success!
         </h1>
         <img className="plans-img" src={plans} alt="shows community plans" />
-        <Link to="/contact">
-          <button className="read-more">contact</button>
-        </Link>
       </div>
     </div>
   );
