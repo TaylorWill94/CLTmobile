@@ -1,6 +1,5 @@
 import "./About.css";
 import plans from "./plans.png";
-import { Link } from "react-router-dom";
 
 function About() {
   return (
