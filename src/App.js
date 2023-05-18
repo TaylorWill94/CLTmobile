@@ -7,6 +7,7 @@ import Mission from "./components/Mission/Mission";
 import About from "./components/About/About";
 import Contact from "./components/Contact/Contact";
 import SiteNav from "./components/SiteNav/SiteNav";
+import Events from "./components/Events/Events";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/mission" element={<Mission />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/events" element={<Events />} />
         </Routes>
       </div>
       <SiteNav />
