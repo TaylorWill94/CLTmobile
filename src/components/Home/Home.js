@@ -14,12 +14,7 @@ function Home() {
           </h1>
         </div>
         <div className="img-sec">
-          <img
-            className="com-img"
-            src={com}
-            // widt="100"
-            alt="a group of people"
-          />
+          <img className="com-img" src={com} alt="a group of people" />
         </div>
       </div>
 
@@ -40,12 +35,7 @@ function Home() {
           </h1>
         </div>
         <div className="group-sec">
-          <img
-            className="group-img"
-            src={group}
-            // widt="100"
-            alt="a group of friends"
-          />
+          <img className="group-img" src={group} alt="a group of friends" />
         </div>
       </div>
     </>
