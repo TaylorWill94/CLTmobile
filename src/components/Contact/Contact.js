@@ -18,7 +18,7 @@ function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    ßß;
+
     fetch(`${API}/send-email`, {
       method: "POST",
       headers: {
