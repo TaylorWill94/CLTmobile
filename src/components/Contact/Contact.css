@@ -20,3 +20,35 @@
     color: #ffffff;
   }
 }
+
+form {
+  padding: 20px;
+}
+
+.form-sec {
+  margin: 40px;
+}
+
+label {
+  padding: 50px;
+  font-size: 22px;
+  font-weight: 900;
+  color: white;
+}
+
+input {
+  padding: 10px;
+  cursor: pointer;
+}
+
+textarea {
+  padding: 20px;
+  cursor: pointer;
+}
+
+button {
+  padding: 20px;
+  border-radius: 12px;
+  background: green;
+  border: none;
+}
