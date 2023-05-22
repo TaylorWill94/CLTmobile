@@ -1,11 +1,13 @@
 import React from "react";
+import "./Success.css";
 
 function Success() {
   return (
-    <div>
-      <h1>Success</h1>
-      <p>Your form submission was successful!</p>
-      {/* Add any additional content or styling for the success page */}
+    <div className="success">
+      <h1 className="suc-msg">
+        Thank you for contacting us! <br />
+        We will get back to you shortly!
+      </h1>
     </div>
   );
 }
