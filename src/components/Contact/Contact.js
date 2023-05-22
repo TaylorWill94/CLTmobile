@@ -62,7 +62,9 @@ function Contact() {
             />
           </div>
           <div className="form-sec">
-            <label>Message *</label>
+            <label className="msg-label">Message *</label>
+            <br />
+            <br />
             <textarea
               name="message"
               value={formData.message}

@@ -214,8 +214,13 @@
     cursor: pointer;
   }
 
+  .msg-label {
+  }
+
   textarea {
     padding: 20px;
+    padding-bottom: 200px;
+    width: 50%;
     cursor: pointer;
   }
 
