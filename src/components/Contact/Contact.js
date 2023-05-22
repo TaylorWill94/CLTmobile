@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
 function Contact() {
+  const API = process.env.REACT_APP_API_URL;
   const navigate = useNavigate();
 
   const [formData, setFormData] = useState({
@@ -17,8 +18,8 @@ function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-
-    fetch("http://localhost:3001/send-email", {
+    ßß;
+    fetch(`${API}/send-email`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
