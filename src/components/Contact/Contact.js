@@ -1,7 +1,10 @@
 import "./Contact.css";
 import React, { useState } from "react";
+import { useNavigate } from "react-router-dom";
 
 function Contact() {
+  const navigate = useNavigate();
+
   const [formData, setFormData] = useState({
     name: "",
     email: "",
@@ -30,6 +33,7 @@ function Contact() {
           email: "",
           message: "",
         });
+        navigate("/success");
       })
       .catch((error) => {
         console.log(error);
