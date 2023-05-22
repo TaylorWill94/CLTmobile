@@ -47,6 +47,8 @@ function Contact() {
         <form onSubmit={handleSubmit}>
           <div className="form-sec">
             <label>Name *</label>
+            <br />
+            <br />
             <input
               type="text"
               name="name"
@@ -57,6 +59,8 @@ function Contact() {
           </div>
           <div className="form-sec">
             <label>Email *</label>
+            <br />
+            <br />
             <input
               type="email"
               name="email"
