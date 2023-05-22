@@ -19,36 +19,211 @@
     text-align: center;
     color: #ffffff;
   }
+
+  form {
+    /* padding: 100px; */
+  }
+
+  .form-sec {
+    margin: 40px;
+  }
+
+  label {
+    font-size: 22px;
+    font-weight: 900;
+    color: white;
+  }
+
+  input {
+    padding: 10px;
+    cursor: pointer;
+  }
+
+  textarea {
+    padding: 20px;
+    cursor: pointer;
+  }
+
+  button {
+    padding: 20px;
+    border-radius: 12px;
+    background: rgb(255, 255, 255);
+    border: none;
+    font-weight: 900;
+  }
 }
 
-form {
-  padding: 20px;
+@media screen and (min-width: 400px) {
+  form {
+    padding: 20px;
+  }
+
+  .form-sec {
+    margin: 40px;
+  }
+
+  label {
+    padding: 50px;
+    font-size: 22px;
+    font-weight: 900;
+    color: white;
+  }
+
+  input {
+    padding: 10px;
+    cursor: pointer;
+  }
+
+  textarea {
+    padding: 20px;
+    cursor: pointer;
+  }
+
+  button {
+    padding: 20px;
+    border-radius: 12px;
+    background: rgb(251, 251, 251);
+    border: none;
+    font-weight: 900;
+  }
 }
 
-.form-sec {
-  margin: 40px;
+@media screen and (min-width: 576px) {
+  form {
+    padding: 20px;
+  }
+
+  .form-sec {
+    margin: 40px;
+  }
+
+  label {
+    padding: 50px;
+    font-size: 22px;
+    font-weight: 900;
+    color: white;
+  }
+
+  input {
+    padding: 10px;
+    cursor: pointer;
+  }
+
+  textarea {
+    padding: 20px;
+    cursor: pointer;
+  }
+
+  button {
+    padding: 20px;
+    border-radius: 12px;
+    background: rgb(251, 251, 251);
+    border: none;
+    font-weight: 900;
+  }
 }
 
-label {
-  padding: 50px;
-  font-size: 22px;
-  font-weight: 900;
-  color: white;
+@media screen and (min-width: 768px) {
+  form {
+    padding: 20px;
+  }
+
+  .form-sec {
+    margin: 40px;
+  }
+
+  label {
+    padding: 50px;
+    font-size: 22px;
+    font-weight: 900;
+    color: white;
+  }
+
+  input {
+    padding: 10px;
+    cursor: pointer;
+  }
+
+  textarea {
+    padding: 20px;
+    cursor: pointer;
+  }
+
+  button {
+    padding: 20px;
+    border-radius: 12px;
+    background: rgb(251, 251, 251);
+    border: none;
+    font-weight: 900;
+  }
 }
 
-input {
-  padding: 10px;
-  cursor: pointer;
+@media screen and (min-width: 992px) {
+  form {
+    padding: 20px;
+  }
+
+  .form-sec {
+    margin: 40px;
+  }
+
+  label {
+    padding: 50px;
+    font-size: 22px;
+    font-weight: 900;
+    color: white;
+  }
+
+  input {
+    padding: 10px;
+    cursor: pointer;
+  }
+
+  textarea {
+    padding: 20px;
+    cursor: pointer;
+  }
+
+  button {
+    padding: 20px;
+    border-radius: 12px;
+    background: rgb(251, 251, 251);
+    border: none;
+    font-weight: 900;
+  }
 }
 
-textarea {
-  padding: 20px;
-  cursor: pointer;
-}
+@media screen and (min-width: 1200px) {
+  form {
+    padding: 20px;
+  }
 
-button {
-  padding: 20px;
-  border-radius: 12px;
-  background: green;
-  border: none;
+  .form-sec {
+    margin: 40px;
+  }
+
+  label {
+    padding: 50px;
+    font-size: 22px;
+    font-weight: 900;
+    color: white;
+  }
+
+  input {
+    padding: 10px;
+    cursor: pointer;
+  }
+
+  textarea {
+    padding: 20px;
+    cursor: pointer;
+  }
+
+  button {
+    padding: 20px;
+    border-radius: 12px;
+    background: rgb(251, 251, 251);
+    border: none;
+    font-weight: 900;
+  }
 }
