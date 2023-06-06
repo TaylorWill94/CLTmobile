@@ -22,6 +22,7 @@ function Nav() {
         <div className="bar"></div>
         <div className="bar"></div>
         <div className="bar"></div>
+        <div className="bar"></div>
       </div>
 
       <div className={`nav-sec-items ${isOpen ? "open" : ""}`}>
@@ -38,6 +39,9 @@ function Nav() {
         </Link>
         <Link to="/contact">
           <p className="nav-item">Contact</p>
+        </Link>
+        <Link to="/faq">
+          <p className="nav-item">Faq</p>
         </Link>
       </div>
 

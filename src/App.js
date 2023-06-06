@@ -9,6 +9,7 @@ import Contact from "./components/Contact/Contact";
 import SiteNav from "./components/SiteNav/SiteNav";
 import Events from "./components/Events/Events";
 import Success from "./components/Success";
+import Faq from "./components/Faq/Faq";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/events" element={<Events />} />
           <Route path="/success" element={<Success />} />
+          <Route path="/faq" element={<Faq />} />
         </Routes>
       </div>
       <SiteNav />
