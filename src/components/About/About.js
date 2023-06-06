@@ -22,12 +22,42 @@ function About() {
           <br />
           <br />
           <a
-            style={{ color: "black" }}
+            style={{ color: "orange" }}
             href="https://www.nyc.gov/site/hpd/services-and-information/edgemere.page"
             target="_blank"
             rel="noopener noreferrer"
           >
             Resilient Edgemere
+          </a>
+          <br />
+          <br />
+          <a
+            style={{ color: "orange" }}
+            href="https://www.nyc.gov/assets/hpd/downloads/pdfs/services/resilient-edgemere-report.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Community Plan
+          </a>
+          <br />
+          <br />
+          <a
+            style={{ color: "orange" }}
+            href="https://www.nyc.gov/assets/hpd/downloads/pdfs/services/resilient-edgemere-progress-report-08-20.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Progress Report
+          </a>
+          <br />
+          <br />
+          <a
+            style={{ color: "orange" }}
+            href="https://nyccli.org/about/mission-and-strategies/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            RFEI
           </a>
         </h1>
         <img className="plans-img" src={plans} alt="shows community plans" />
