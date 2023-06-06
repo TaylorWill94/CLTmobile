@@ -7,7 +7,7 @@ function About() {
       <div className="about-sec">
         <h1 className="about-bio">
           <span style={{ color: "orange" }}>
-            We are a new non-profit community organization, dedicated toß
+            We are a new non-profit community organization, dedicated to
             community control of land in Edgemere:
           </span>{" "}
           <br />
