@@ -13,12 +13,13 @@ function About() {
           <br />
           <br />
           Formed by local residents who successfully bided on 119 vacant-City
-          owned HDP lots (through a competitive process)– so our community can
-          have a REAL say in how the lots are developed! We were selected by HPD
-          as the winner in Septemberß 2022! We’re doing things a little
-          up-side-down! Most CLTs get organized first, and THEN get land… so we
-          really gotta get organized to do this right! We need YOUR help to make
-          community control in Edgemere a success!
+          owned HDP lots (through a competitive process). This allows the
+          community to have a REAL say in how the lots are developed! We were
+          selected by HPD as the winner in September 2022! We're doing things a
+          little differently (or reverse), most CLT's get organized first, then
+          the land, we got the Land first. Now it's time to get organized to do
+          this right! We need YOUR help to make community control in Edgemere a
+          success!
           <br />
           <br />
           <a
