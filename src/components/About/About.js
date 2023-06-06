@@ -19,6 +19,16 @@ function About() {
           up-side-down! Most CLTs get organized first, and THEN get land… so we
           really gotta get organized to do this right! We need YOUR help to make
           community control in Edgemere a success!
+          <br />
+          <br />
+          <a
+            style={{ color: "black" }}
+            href="https://www.nyc.gov/site/hpd/services-and-information/edgemere.page"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Resilient Edgemere
+          </a>
         </h1>
         <img className="plans-img" src={plans} alt="shows community plans" />
       </div>
