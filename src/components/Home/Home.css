@@ -310,12 +310,12 @@
   }
 
   .home-sec {
-    /* margin: 1.25rem; */
+    
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
-    background: rgb(1, 70, 56);
+    background: #169873;
   }
 
   .message {
@@ -335,13 +335,13 @@
   }
 
   .img-sec {
-    /* margin: 1.25rem; */
+    
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
     width: 100%;
-    /* background: rgb(1, 70, 56); */
+    
   }
 
   .com-img {
@@ -355,24 +355,19 @@
   }
 
   .intro-sec {
-    /* display: flex;
-    flex-direction: row;
-    margin: 1.25rem;
-    padding-top: 100px;
-    padding-bottom: 100px;
-    padding-left: 20px;
-    padding-right: 20px; */
+    
     display: flex;
     flex-direction: row;
+    background-color: #169873;
   }
 
   .clt-sec {
-    /* margin: 1.25rem; */
+ 
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
-    background: rgb(1, 70, 56);
+    background: #169873
   }
 
   .clt-bio {
@@ -384,12 +379,12 @@
   }
 
   .group-sec {
-    /* margin: 1.25rem; */
+  
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
     width: 100%;
-    background: rgb(1, 70, 56);
+    background: #169873;
   }
 }
