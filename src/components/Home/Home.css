@@ -5,7 +5,7 @@
     padding-left: 20px;
     padding-right: 20px;
     margin-bottom: 10px;
-    background: rgb(1, 70, 56);
+    background-color: #169873;
   }
 
   .message {
@@ -31,7 +31,7 @@
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
-    /* background: rgb(1, 70, 56); */
+    background-color: #169873;
   }
 
   .com-img {
@@ -44,7 +44,7 @@
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
-    background: rgb(1, 70, 56);
+    background-color: #169873;
   }
 
   .group-img {
@@ -58,7 +58,7 @@
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 10px;
-    background: rgb(1, 70, 56);
+    background-color: #169873;
   }
 
   .clt-bio {
