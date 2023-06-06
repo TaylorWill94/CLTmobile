@@ -169,7 +169,7 @@ hr {
   .site-nav {
     display: flex;
     flex-direction: column;
-    background: rgb(59, 115, 235);
+    background: #00A6A6;
     color: white;
     padding-top: 10px;
     padding-bottom: 80px;

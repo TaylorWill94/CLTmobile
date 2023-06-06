@@ -190,7 +190,7 @@
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
-    /* background: rgb(1, 70, 56); */
+    background: #169873;
   }
 
   .com-img {
@@ -230,7 +230,7 @@
   .intro-sec {
     display: flex;
     flex-direction: row;
-    /* margin: 1.25rem; */
+  background-color: #169873;
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 20px;
@@ -245,7 +245,7 @@
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
-    background: rgb(1, 70, 56);
+    background: #169873;
   }
 
   .message {
@@ -274,7 +274,7 @@
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
-    background: rgb(1, 70, 56);
+    background: #169873;
   }
 
   .group-img {
@@ -288,7 +288,7 @@
     padding-bottom: 100px;
     /* padding-left: 20px;
     padding-right: 20px; */
-    background: rgb(1, 70, 56);
+    background: #169873;
   }
 
   .clt-bio {
