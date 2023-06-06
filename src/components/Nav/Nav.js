@@ -41,7 +41,7 @@ function Nav() {
           <p className="nav-item">Contact</p>
         </Link>
         <Link to="/faq">
-          <p className="nav-item">Faq</p>
+          <p className="nav-item">FAQ</p>
         </Link>
       </div>
 
