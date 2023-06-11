@@ -52,6 +52,11 @@ function About() {
           </a>
           <br />
           <br />
+          <h1 className="about-bio">
+            HPD planning efforts in Edgemere that led up to the competitive RFEI
+            process:
+          </h1>
+          <br />
           <a
             style={{ color: "orange" }}
             href="https://nyccli.org/about/mission-and-strategies/"
@@ -60,6 +65,7 @@ function About() {
           >
             RFEI
           </a>
+          <br />
           <br />
           <br />
           <a
