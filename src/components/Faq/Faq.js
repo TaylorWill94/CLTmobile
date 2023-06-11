@@ -1,4 +1,5 @@
 import "./Faq.css";
+import twitter from "./twitter.png";
 
 function Faq() {
   return (
@@ -8,7 +9,14 @@ function Faq() {
           <span style={{ color: "orange", fontSize: "32px" }}>CLT 101</span>{" "}
           <br />
           <br />
-          Twitter @realedgemereclt
+          <a
+            href="https://twitter.com/realedgemereCLT"
+            alt="twitter link"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src={twitter} width="50" alt="twitter icon" />
+          </a>
         </h1>
         {/* <Link to="/about">
           <button className="read-more">read more</button>
