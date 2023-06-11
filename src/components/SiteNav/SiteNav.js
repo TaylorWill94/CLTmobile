@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import "./SiteNav.css";
+import twitter from "./twitter.png";
 
 function SiteNav() {
   return (
@@ -27,6 +28,17 @@ function SiteNav() {
           <ul>Mission</ul>
         </Link>
         <hr />
+      </div>
+
+      <div className="sec-4">
+        <a
+          href="https://twitter.com/realedgemereCLT"
+          alt="twitter link"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src={twitter} width="50" alt="twitter icon" />
+        </a>
       </div>
     </div>
   );
