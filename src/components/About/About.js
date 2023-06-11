@@ -60,6 +60,16 @@ function About() {
           >
             RFEI
           </a>
+          <br />
+          <br />
+          <a
+            style={{ color: "orange" }}
+            href="https://drive.google.com/file/d/1S0SgdjSoB9KG1q4Z8ax6bwSnOrfs7z64/view"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            ReAL Edgemere CLT Slides
+          </a>
         </h1>
         <img className="plans-img" src={plans} alt="shows community plans" />
       </div>
