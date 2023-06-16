@@ -319,6 +319,7 @@
   .informal-sec {
     display: flex;
     flex-direction: row;
+    flex-wrap: nowrap;
     padding: 50px;
   }
 
