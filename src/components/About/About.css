@@ -51,6 +51,7 @@
   .rfei-section {
     display: flex;
     flex-direction: column;
+    padding-bottom: 50px;
   }
 
   .plans-img {
@@ -111,6 +112,7 @@
   .rfei-section {
     display: flex;
     flex-direction: column;
+    padding-bottom: 50px;
   }
 
   .plans-img {
