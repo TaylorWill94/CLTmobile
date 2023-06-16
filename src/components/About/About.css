@@ -8,8 +8,10 @@
   }
 
   .about-sec {
-  /* background-color: #169873; */
-  background-color: #D4FCC3;
+    /* background-color: #169873; */
+    display: flex;
+    flex-direction: column;
+    background-color: #d4fcc3;
     padding: 60px 20px 100px 20px;
   }
 
@@ -19,6 +21,29 @@
     font-weight: 900;
     text-align: left;
     color: rgb(0, 0, 0);
+  }
+
+  .about-sec-2 {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .informal-sec {
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+  }
+
+  .sections {
+    border: 3px solid black;
+    padding: 20px;
+    margin: 10px;
+    transition: 0.4s;
+  }
+
+  .sections:hover {
+    cursor: pointer;
+    background-color: white;
   }
 
   .plans-img {
@@ -37,7 +62,9 @@
 
   .about-sec {
     /* background-color: #169873; */
-    background-color: #D4FCC3;
+    display: flex;
+    flex-direction: column;
+    background-color: #d4fcc3;
     padding: 60px 20px 100px 20px;
   }
 
@@ -47,6 +74,29 @@
     font-weight: 900;
     text-align: left;
     color: rgb(0, 0, 0);
+  }
+
+  .about-sec-2 {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .informal-sec {
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+  }
+
+  .sections {
+    border: 3px solid black;
+    padding: 20px;
+    margin: 10px;
+    transition: 0.4s;
+  }
+
+  .sections:hover {
+    cursor: pointer;
+    background-color: white;
   }
 
   .plans-img {
@@ -60,13 +110,25 @@
     padding-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
-     background-color: #169873;
+    background-color: #169873;
   }
 
   .about-sec {
-    /* background: rgb(1, 60, 68); */
-    background-color: #D4FCC3;
+    display: flex;
+    flex-direction: column;
+    background-color: #d4fcc3;
     padding: 60px 20px 100px 20px;
+  }
+
+  .about-sec-2 {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .informal-sec {
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
   }
 
   .about-bio {
@@ -75,6 +137,18 @@
     font-weight: 900;
     text-align: left;
     color: rgb(0, 0, 0);
+  }
+
+  .sections {
+    border: 3px solid black;
+    padding: 20px;
+    margin: 10px;
+    transition: 0.4s;
+  }
+
+  .sections:hover {
+    cursor: pointer;
+    background-color: white;
   }
 
   .plans-img {
