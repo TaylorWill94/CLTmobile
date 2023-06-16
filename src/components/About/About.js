@@ -45,7 +45,7 @@ function About() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <h3>Community Plan</h3>
+              <h3> Resilient Edgemere Community Plan</h3>
             </a>
             <br />
             <br />
