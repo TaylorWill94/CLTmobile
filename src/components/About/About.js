@@ -60,20 +60,22 @@ function About() {
             </a>
             <br />
             <br />
-            <h1 className="about-bio" style={{ textAlign: "center" }}>
-              HPD planning efforts in Edgemere that led up to the competitive
-              RFEI process:
-            </h1>
             <br />
-            <a
-              className="sections"
-              style={{ color: "orange" }}
-              href="https://nyccli.org/about/mission-and-strategies/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <h3>RFEI</h3>
-            </a>
+            <div className="rfei-section">
+              <h1 className="about-bio" style={{ textAlign: "center" }}>
+                HPD planning efforts in Edgemere that led up to the competitive
+                RFEI process:
+              </h1>
+              <a
+                className="sections"
+                style={{ color: "orange" }}
+                href="https://nyccli.org/about/mission-and-strategies/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <h3>RFEI</h3>
+              </a>
+            </div>
             <br />
             <br />
             <br />
