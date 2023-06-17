@@ -39,7 +39,7 @@ function About() {
             </a>
             <br />
             <br />
-            <a
+            {/* <a
               className="sections"
               style={{ color: "orange" }}
               href="https://www.nyc.gov/assets/hpd/downloads/pdfs/services/resilient-edgemere-report.pdf"
@@ -47,10 +47,10 @@ function About() {
               rel="noopener noreferrer"
             >
               <h3> Resilient Edgemere Community Plan</h3>
-            </a>
+            </a> */}
             <br />
             <br />
-            <a
+            {/* <a
               className="sections"
               style={{ color: "orange" }}
               href="https://www.nyc.gov/assets/hpd/downloads/pdfs/services/resilient-edgemere-progress-report-08-20.pdf"
@@ -58,7 +58,7 @@ function About() {
               rel="noopener noreferrer"
             >
               <h3> Resilient Edgemere Progress Report</h3>
-            </a>
+            </a> */}
 
             <a
               className="sections"
@@ -83,6 +83,26 @@ function About() {
               rel="noopener noreferrer"
             >
               <h3>RFEI</h3>
+            </a>
+
+            <a
+              className="sections"
+              style={{ color: "orange" }}
+              href="https://www.nyc.gov/assets/hpd/downloads/pdfs/services/resilient-edgemere-progress-report-08-20.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <h3> Resilient Edgemere Progress Report</h3>
+            </a>
+
+            <a
+              className="sections"
+              style={{ color: "orange" }}
+              href="https://www.nyc.gov/assets/hpd/downloads/pdfs/services/resilient-edgemere-report.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <h3> Resilient Edgemere Community Plan</h3>
             </a>
           </div>
           <div className="rfei-section">
