@@ -4,6 +4,9 @@ import "./Bios.css";
 function Bios() {
   return (
     <div className="mission">
+      <h1>Community Members</h1>
+      <br />
+      <br />
       <div className="bio">
         <h1>Alexis Foote</h1>
         <p>
@@ -136,6 +139,35 @@ function Bios() {
           high school and as an environmental educator with RISE. Zakhia
           continues this work, interfacing with teachers in partnership with
           NYCDOE Office of Sustainability.
+        </p>
+      </div>
+      <br />
+      <br />
+      <h1>Advisor Members</h1>
+      <br />
+      <br />
+      <div className="bio">
+        <h1>Deborah Morris</h1>
+        <p>
+          Deborah Morris is an urban planner and urban designer. Her work
+          centers at the nexus of climate adaptation and social equity: more
+          specifically, on how cities manage housing opportunity in geographies
+          facing substantial physical risk. Deborah has extensive experience in
+          public administration, disaster recovery initiatives spanning from
+          9/11 through COVID-19, and the facilitation of climate change
+          adaptation in affordable housing.
+        </p>
+      </div>
+      <div className="bio">
+        <h1>Doug McPherson</h1>
+        <p>
+          Doug McPherson is an urban planner from South Ozone Park. As a member
+          of Empire State Development’s Real Estate Team, he works with
+          government, private, and community stakeholders to find new
+          development opportunities for public lands throughout New York State.
+          Doug has a background in public engagement, land use, affordable
+          housing finance, and the relationship between health and the built
+          environment.
         </p>
       </div>
     </div>
