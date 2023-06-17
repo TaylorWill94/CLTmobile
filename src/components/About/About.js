@@ -1,4 +1,5 @@
 import "./About.css";
+import { Link } from "react-router-dom";
 import plans from "./plans.png";
 
 function About() {
@@ -83,6 +84,14 @@ function About() {
             >
               <h3>RFEI</h3>
             </a>
+          </div>
+          <div className="rfei-section">
+            <h1 className="about-bio" style={{ textAlign: "center" }}>
+              Meet the CLT Board Members
+            </h1>
+            <Link to="/bios" className="sections" style={{ color: "orange" }}>
+              <h3>Bios</h3>
+            </Link>
           </div>
           <img className="plans-img" src={plans} alt="shows community plans" />
         </div>

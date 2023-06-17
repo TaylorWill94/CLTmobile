@@ -10,6 +10,7 @@ import SiteNav from "./components/SiteNav/SiteNav";
 import Events from "./components/Events/Events";
 import Success from "./components/Success";
 import Faq from "./components/Faq/Faq";
+import Bios from "./components/Bios/Bios";
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
           <Route path="/events" element={<Events />} />
           <Route path="/success" element={<Success />} />
           <Route path="/faq" element={<Faq />} />
+          <Route path="/bios" element={<Bios />} />
         </Routes>
       </div>
       <SiteNav />
