@@ -53,7 +53,7 @@ function Bios() {
           individuals from a wide range of occupational backgrounds.
         </p>
       </div>
-      <div className="bio">
+      {/* <div className="bio">
         <h1>Jackie Rogers</h1>
         <p>
           Jackie Rogers is a resident homeowner of Edgemere, a community
@@ -71,7 +71,7 @@ function Bios() {
           by her passion to help others find fulfillment and belonging in their
           communities.
         </p>
-      </div>
+      </div> */}
       <div className="bio">
         <h1>Lisa Sampson</h1>
         <p>
